@@ -94,7 +94,7 @@ GitHub is about more than code. It’s a platform for software collaboration, an
   Define terms and link to docs.github.com.
 -->
 
-<details id=2 open>
+<details id=2>
 <summary><strong>:milky_way: Step 2: Add an image</strong></summary>
 
 ### Great job adding headers to the file :sparkles:
@@ -127,7 +127,7 @@ Let's add an image. Include descriptive text in the square brackets. This text i
   Define terms and link to docs.github.com.
 -->
 
-<details id=3>
+<details id=3 open>
 <summary><strong>:robot: Step 3: Add a code example</strong></summary>
 
 ### Great job adding an image to the file :tada:
