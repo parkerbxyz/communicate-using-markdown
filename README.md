@@ -46,7 +46,7 @@ GitHub is about more than code. It’s a platform for software collaboration, an
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1 open>
+<details id=1>
 <summary><strong>:smiley: Step 1: Add headers</strong></summary>
 
 ### Welcome to "Communicate using Markdown"! :wave:
@@ -94,7 +94,7 @@ GitHub is about more than code. It’s a platform for software collaboration, an
   Define terms and link to docs.github.com.
 -->
 
-<details id=2>
+<details id=2 open>
 <summary><strong>:milky_way: Step 2: Add an image</strong></summary>
 
 ### Great job adding headers to the file :sparkles:
