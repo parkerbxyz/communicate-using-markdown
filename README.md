@@ -20,7 +20,7 @@ _This course will walk you through everything you need to start organizing ideas
   Do not use quotes on the <details> tag attributes.
 -->
 
-<details id=0 open>
+<details id=0>
 <summary><strong>:golf: Start</strong></summary>
 
 **To start this course: [<img width="150" alt="Use this template" src="https://user-images.githubusercontent.com/1221423/148581131-555c0fb8-5361-4450-a760-75fa6219a2fc.png">](https://github.com/githublearn/communicate-using-markdown/generate)**
@@ -46,7 +46,7 @@ GitHub is about more than code. It’s a platform for software collaboration, an
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1>
+<details id=1 open>
 <summary><strong>:smiley: Step 1: Add headers</strong></summary>
 
 ### Welcome to "Communicate using Markdown"! :wave:
