@@ -164,7 +164,7 @@ Initialized empty Git repository in /Users/githublearn/Projects/recipe-repositor
   Define terms and link to docs.github.com.
 -->
 
-<details id=4 open>
+<details id=4>
 <summary><strong>:ballot_box_with_check: Step 4: Make a task list</strong></summary>
 
 ### Great job adding a code example to the file :partying_face:
@@ -209,7 +209,7 @@ GitHub Actions went ahead and made a branch and a pull request for you. So you'l
   Define terms and link to docs.github.com.
 -->
 
-<details id=5>
+<details id=5 open>
 <summary><strong>:shipit: Step 5: Merge your pull request</strong></summary>
 
 ### Great job adding a task list to the file :heart:
