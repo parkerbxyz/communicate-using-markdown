@@ -127,7 +127,7 @@ Let's add an image. Include descriptive text in the square brackets. This text i
   Define terms and link to docs.github.com.
 -->
 
-<details id=3 open>
+<details id=3>
 <summary><strong>:robot: Step 3: Add a code example</strong></summary>
 
 ### Great job adding an image to the file :tada:
@@ -164,7 +164,7 @@ Initialized empty Git repository in /Users/githublearn/Projects/recipe-repositor
   Define terms and link to docs.github.com.
 -->
 
-<details id=4>
+<details id=4 open>
 <summary><strong>:ballot_box_with_check: Step 4: Make a task list</strong></summary>
 
 ### Great job adding a code example to the file :partying_face:
